@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alex Niemiec alxniem@gmail.com
 
 # THANKS
 
