@@ -16,6 +16,8 @@ This is a very simple project. Deployment can be on any pc or server.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review
+
 ###Copyright
 
 2020 Alex Niemiec
