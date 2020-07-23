@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. Mainly intended for practicing gi
 This is a very simple project. Deployment can be on any pc or server.
 
 ## How To Contribute
+
+###Copyright
+
+2020 Alex Niemiec
