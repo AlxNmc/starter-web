@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To anybody that ventured far enought into this demo repo to read this.
 
 # TECHNOLOGY COLOPHON
 
