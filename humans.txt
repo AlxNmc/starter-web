@@ -8,6 +8,7 @@
 # THANKS
 
     To anybody that ventured far enought into this demo repo to read this.
+	There are other more interesting projects for you to look at.
 
 # TECHNOLOGY COLOPHON
 
