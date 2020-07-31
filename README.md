@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests for review
 
 ###Copyright
 
-2020 Alex Niemiec
+2020 Alex Niemiec. All rights reserved.
